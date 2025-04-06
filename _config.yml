@@ -9,37 +9,48 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Bezmi Alem Vakif  University Hospital
   pic: 1
-  position: Lead Designer
+  position:
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    # - title: twitter
+    #   url: #
+    # - title: facebook
+    #   url: #
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Ankara Private Guven Hospital
   pic: 2
-  position: Lead Marketer
+  position:
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
+    # - title: twitter
+    #   url: #
+    # - title: facebook
+    #   url: #
+    - title: stack-overflow
       url: #
 
-- name: Diana Petersen
+- name: Ankara Bayındır Healt Group 
   pic: 3
-  position: Lead Developer
+  position: 
   social:
-    - title: twitter
+    # - title: twitter
+    #   url: #
+    # - title: facebook
+    #   url: #
+    - title: stack-overflow
       url: #
-    - title: facebook
-      url: #
-    - title: google-plus
+
+- name: Ankara Private Çankaya Hospital
+  pic: 3
+  position: 
+  social:
+    # - title: twitter
+    #   url: #
+    # - title: facebook
+    #   url: #
+    - title: stack-overflow
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
