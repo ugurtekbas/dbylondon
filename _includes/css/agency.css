@@ -61,6 +61,13 @@ h6 {
     font-weight: 700;
 }
 
+new-h6 {
+    font-family: {{ site.data.template.font.primary }};
+    font-weight: 700;
+    color: #{{ site.data.template.color.primary }};
+    font-size: 38px;
+}
+
 .h2-different,
 {
     text-transform: lowercase;
