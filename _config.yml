@@ -18,7 +18,7 @@ people:
     # - title: facebook
     #   url: #
     - title: stack-overflow
-      url: #
+      url: https://bezmialem.com.tr/en
 
 - name: Ankara Private Guven Hospital
   pic: 2
@@ -29,7 +29,7 @@ people:
     # - title: facebook
     #   url: #
     - title: stack-overflow
-      url: #
+      url: https://www.guveninternational.com
 
 - name: Ankara Bayındır Healt Group 
   pic: 3
@@ -40,10 +40,10 @@ people:
     # - title: facebook
     #   url: #
     - title: stack-overflow
-      url: #
+      url: https://www.bayindirhospitals.com
 
 - name: Ankara Private Çankaya Hospital
-  pic: 3
+  pic: 4
   position: 
   social:
     # - title: twitter
@@ -51,7 +51,7 @@ people:
     # - title: facebook
     #   url: #
     - title: stack-overflow
-      url: #
+      url: https://cankayahospital.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
