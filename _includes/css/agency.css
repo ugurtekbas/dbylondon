@@ -63,9 +63,9 @@ h6 {
 
 .new-h6 {
     font-family: {{ site.data.template.font.primary }};
-    font-weight: 700;
+    font-weight: 600;
     color: #{{ site.data.template.color.primary }};
-    font-size: 38px;
+    font-size: 30px;
 }
 
 .h2-different,
