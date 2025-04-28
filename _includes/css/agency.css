@@ -286,16 +286,18 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
+    position: relative; /* Needed for overlay */
     text-align: center;
     color: #fff;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
     background-position: center center;
-    background-repeat: none;
+    background-repeat: no-repeat; /* <-- corrected 'none' to 'no-repeat' */
+    background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: cover;
     -o-background-size: cover;
+    padding: 150px 0; /* Optional: adds top/bottom breathing space */
 }
 
 header::before {
